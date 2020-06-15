@@ -1,5 +1,5 @@
 # Airbnb_Midland_TX
-My first programming project!  Exploring airbnb listings in the Midland-Odessa area of WTX
+My first Python programming project!  Exploring airbnb listings in the Midland-Odessa area of WTX
 <br>
 <h2>GMAPS Occupancy Heatmap</h2>
 
