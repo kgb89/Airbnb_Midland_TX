@@ -1,6 +1,7 @@
 # Airbnb_Midland_TX
 My first programming project!  Exploring airbnb listings in the Midland-Odessa area of WTX
 
+<h1>GMAPS Occupancy Heatmap</h1>
 
 ![alt text](https://github.com/kgb89/Airbnb_Midland_TX/blob/master/Occupancy_Heatmap.PNG)
 
