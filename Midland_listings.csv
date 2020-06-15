@@ -1,0 +1,296 @@
+listing.id,listing.user.id,listing.is_superhost,listing.city,listing.name,listing.property_type_id,listing.room_and_property_type,listing.space_type,listing.avg_rating,listing.reviews_count,listing.picture_count,listing.bathrooms,listing.bedrooms,listing.beds,listing.person_capacity,listing.cancel_policy,listing.is_new_listing,listing.lat,listing.lng,listing.max_nights,listing.min_nights,pricing_quote.can_instant_book,pricing_quote.monthly_price_factor,pricing_quote.rate.amount,pricing_quote.weekly_price_factor
+42664313,63119857,False,Ector County,Location is Great in between Midland and Odessa,2,Private room in house,Private room,,0,29,2.5,4,0.0,6,CANCEL_FLEXIBLE,False,31.93585,-102.29824,365,1,False,0.8,50.0,0.9
+43186999,343872445,False,Gardendale,Oasis in the Wild Wild West,2,Entire house,Entire house,,2,46,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.01756,-102.28669,1125,4,True,1.0,165.0,1.0
+29178930,168749906,False,Gardendale,Wild Horse Ranch in beautiful West Texas,2,Entire house,Entire house,,2,7,1.0,2,2.0,3,CANCEL_FLEXIBLE,False,32.02713,-102.34724,1125,3,True,1.0,150.0,1.0
+41459634,212335944,False,Midland,Downtown East,2,Entire house,Entire house,4.27,15,22,1.0,2,2.0,6,CANCEL_MODERATE,False,32.00942,-102.07725,1125,1,True,0.7,60.0,0.85
+39750801,302762155,False,Midland,Cozy Suite Just Outside Downtown Midland,1,Entire apartment,Entire apartment,,2,24,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.98801,-102.14807,90,1,True,0.8,60.0,0.9
+42811488,302762155,False,Midland,Beautiful 1-Bedroom Flat Near Downtown Midland,1,Entire apartment,Entire apartment,,2,23,1.0,1,3.0,3,CANCEL_FLEXIBLE,False,31.98763,-102.14918,90,1,True,0.8,60.0,0.9
+39731777,302762155,False,Midland,Newly Renovated Suite in the Heart of Midland,1,Entire apartment,Entire apartment,,1,24,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.9867,-102.14799,90,1,True,0.8,55.0,0.9
+39461675,302762155,False,Midland,Modern Suite Just Outside Downtown Midland,1,Entire apartment,Entire apartment,4.25,4,19,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.03264,-102.13565,90,1,True,0.8,55.0,0.9
+34843153,245624303,True,Midland,Unattached Corporate Suite - Solitude in the city,40,Entire guesthouse,Entire guesthouse,5.0,6,16,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.01845,-102.19384,1125,2,False,0.75,130.0,0.9
+41181109,264369827,False,Midland,"Newly Remodeled, Non-Smoking Home in North Midland",2,Entire house,Entire house,5.0,4,27,2.0,3,4.0,8,CANCEL_MODERATE,False,32.03123,-102.11764,1125,2,False,0.82,145.0,0.9
+41340614,41916063,True,Midland,Quiet 2 bedroom,1,Entire apartment,Entire apartment,,2,16,2.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.05279,-102.13168,30,3,True,1.0,120.0,1.0
+43093988,157392947,False,Midland,Club Shakes,36,Entire townhouse,Entire townhouse,,0,17,2.0,2,2.0,4,CANCEL_FLEXIBLE,True,32.00931,-102.0847,1125,2,True,0.65,199.0,0.9
+42231621,174750939,True,Midland,The Condo,37,Entire condominium,Entire condominium,,0,23,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.03705,-102.13129,1125,2,True,1.0,125.0,1.0
+39586648,156708933,True,Midland,Not so rough for a roughneck!,36,Private room in townhouse,Private room,,1,14,1.5,1,1.0,1,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.02399,-102.08839,1125,4,True,0.8,40.0,0.88
+39416859,302762155,False,Midland,Newly Renovated Midland Suite,1,Entire apartment,Entire apartment,4.86,7,20,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.03299,-102.13536,90,1,True,0.8,74.0,0.9
+13128133,72780510,True,Midland,Comfortable and Quaint - Drawer and Closet Space,2,Private room in house,Private room,4.89,19,10,1.0,1,1.0,2,CANCEL_MODERATE,False,32.00711,-102.10028,90,1,False,0.3,59.0,0.6
+40944218,160926947,False,Midland,The Destination Guest House,2,Entire house,Entire house,4.8,5,1,2.5,4,4.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.98666,-102.08857,1125,1,True,0.85,150.0,0.9
+39445459,302762155,False,Midland,Relaxing Suite in the Heart of Midland,1,Entire apartment,Entire apartment,3.75,8,18,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.03328,-102.13429,90,1,True,0.8,55.0,0.9
+39444991,302762155,False,Midland,Newly Renovated Flat in the Heart of Midland!,1,Entire apartment,Entire apartment,4.25,4,17,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.0347,-102.13564,90,1,True,0.8,55.0,0.9
+39443640,302762155,False,Midland,Modern Flat in the Heart of Midland!,1,Entire apartment,Entire apartment,3.57,7,18,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.03307,-102.13405,90,1,True,0.8,60.0,0.9
+39445546,302762155,False,Midland,Cozy Midland Flat in Central Location,1,Entire apartment,Entire apartment,4.75,4,14,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.03466,-102.13593,90,1,True,0.8,55.0,0.9
+38038364,153682556,True,Midland,Right At Home-Luxury Executive Retreat,2,Entire house,Entire house,5.0,30,44,2.5,4,5.0,8,CANCEL_FLEXIBLE,False,32.01524,-102.17277,1125,1,False,1.0,222.0,1.0
+39447290,302762155,False,Midland,Relaxing Suite Just Outside Downtown Midland,1,Entire apartment,Entire apartment,4.25,4,19,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.03303,-102.13598,90,1,True,0.8,55.0,0.9
+39447499,302762155,False,Midland,Modern Home  in the Heart of Midland,1,Entire apartment,Entire apartment,4.22,9,16,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.03248,-102.13473,90,1,True,0.8,55.0,0.9
+39419076,302762155,False,Midland,Brand New Midland Suite,1,Entire apartment,Entire apartment,3.67,6,25,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.03323,-102.13544,90,1,True,0.8,55.0,0.9
+37771086,41916063,True,Midland,Claydesta Stay,1,Entire apartment,Entire apartment,5.0,3,25,2.0,2,2.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.06776,-102.09549,30,3,True,1.0,150.0,1.0
+31447123,5310837,True,Midland,Three bedrooms in large 2 story home.,2,Private room in house,Private room,5.0,9,19,2.0,3,4.0,4,CANCEL_MODERATE,False,32.00277,-102.16194,1125,1,True,0.6,90.0,0.79
+33367604,251118513,False,Midland,"New Home, North Midland, Clean and Quiet",2,Private room in house,Private room,,0,9,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.07815,-102.08062,1125,1,True,1.0,185.0,1.0
+37706190,160238336,False,Midland,Great place close to hospital,2,Private room in house,Private room,,0,5,1.0,1,0.0,2,CANCEL_FLEXIBLE,False,31.99331,-102.10767,7,1,True,1.0,55.0,1.0
+24378679,149309678,True,Midland,"Corporate or Family Home, close to downtown",2,Entire house,Entire house,4.92,25,22,2.0,4,5.0,11,CANCEL_MODERATE,False,32.01684,-102.08471,1125,1,True,0.7,200.0,0.9
+39731394,302762155,False,Midland,Cozy Suite in the Heart of Midland!,1,Entire apartment,Entire apartment,4.4,5,24,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.98808,-102.14916,90,1,True,0.8,55.0,0.9
+33295759,211039997,True,Midland,Dancing K's Permian Prospect 2,2,Private room in house,Private room,,2,6,1.5,1,1.0,1,CANCEL_FLEXIBLE,False,31.87978,-102.20197,30,7,False,1.0,30.0,1.0
+35233781,77533936,False,Midland,Beautiful New RV 5 Beds,32,Camper/RV,Camper/RV,4.79,14,22,1.5,2,4.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.92287,-101.91613,1125,1,True,0.85,80.0,0.9
+32667466,123516812,True,Midland,Desert Oasis,2,Entire house,Entire house,4.86,35,17,2.0,3,5.0,10,CANCEL_MODERATE,False,32.00445,-102.13355,1125,2,False,0.72,145.0,0.81
+29306324,108682577,True,Midland,Quiet and comfortable with King Bed,2,Private room in house,Private room,4.82,11,7,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.02873,-102.06824,1125,1,True,0.53,79.0,0.72
+43474505,41916063,True,Midland,1 bedroom at The Ridge,1,Entire apartment,Entire apartment,,0,4,1.0,1,1.0,2,CANCEL_FLEXIBLE,True,32.0389,-102.12446,30,3,True,1.0,100.0,1.0
+42670934,266063094,False,Midland,Free Breakfast. Pool & Hot Tub. King Suite. Close to the new Chevron and Oxy campuses!,37,Entire condominium,Entire condominium,,0,17,1.0,1,1.0,2,CANCEL_MODERATE,False,31.99406,-102.16205,14,2,True,1.0,163.0,1.0
+29275238,220548113,True,Midland,North Midland Private Master Bedroom,2,Private room in house,Private room,5.0,27,9,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.04382,-102.10859,1125,1,False,0.79,95.0,0.79
+43302463,342643084,False,Midland,Comfort Abounds at 1BR in Midland,47,Entire serviced apartment,Entire apartment,,0,19,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.02814,-102.15834,1125,30,True,1.0,58.0,1.0
+43302458,342643084,False,Midland,Private 2BR/2BA Apt Home in Midland,47,Entire serviced apartment,Entire apartment,,0,19,2.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.02814,-102.15834,1125,30,True,1.0,83.0,1.0
+43302465,342643084,False,Midland,Cozy 2BR/2BA apt in Midland,47,Entire serviced apartment,Entire apartment,,0,19,2.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.02814,-102.15834,1125,30,True,1.0,86.0,1.0
+39750604,302762155,False,Midland,Brand New Midland Suite + Pool,1,Entire apartment,Entire apartment,4.0,3,24,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.98672,-102.14816,90,1,True,0.8,55.0,0.9
+42565475,153682556,True,Midland,Right At Home- Midland Patio Home,2,Entire house,Entire house,5.0,4,33,3.5,3,4.0,8,CANCEL_FLEXIBLE,False,32.01807,-102.10578,1125,1,False,1.0,99.0,1.0
+38671622,47332498,True,Midland,Best 2 Bedroom Apartment! - Double Master Bedrooms,1,Entire apartment,Entire apartment,5.0,3,24,2.0,2,2.0,4,CANCEL_MODERATE,False,31.99142,-102.16079,1125,10,True,0.8,97.0,0.95
+35248417,93930,False,Midland,Brand new Home - 1 bedroom Available,36,Private room in townhouse,Private room,5.0,6,17,3.5,1,1.0,1,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.02639,-102.09048,30,4,False,0.9,25.0,1.0
+38438518,293011673,False,Midland,Comfort space,1,Private room in apartment,Private room,4.36,11,12,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,32.00167,-102.13696,1125,1,True,0.57,60.0,0.97
+36878447,41669328,True,Midland,"*NEW* Light, bright & Cozy - 4 bed 2 bath home",2,Entire house,Entire house,5.0,15,27,2.0,4,5.0,8,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.98411,-102.14096,1125,1,False,0.78,160.0,0.9
+29390305,149309678,True,Midland,"Anetta/Loop 250 - 3 bedroom, 2 bath, 2 car garage",2,Entire house,Entire house,5.0,18,14,2.0,3,3.0,8,CANCEL_MODERATE,False,31.97317,-102.13551,1125,2,True,0.7,151.0,0.9
+27309093,105278457,False,Midland,Green Roost.,2,Entire house,Entire house,4.38,24,6,1.0,2,2.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.97652,-102.11977,60,5,False,0.6,100.0,0.8
+30266228,207888136,False,Midland,Beautiful 2 bedroom apartment!5,1,Entire apartment,Entire apartment,4.6,10,9,1.0,2,3.0,5,CANCEL_FLEXIBLE,False,32.007,-102.08177,1125,1,True,1.0,104.0,1.0
+43302466,342643084,False,Midland,1BR w/ sparkling pool in Midland,47,Entire serviced apartment,Entire apartment,,0,19,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.02814,-102.15834,1125,30,True,1.0,53.0,1.0
+39750463,302762155,False,Midland,Modern Suite in the Heart of Midland!,1,Entire apartment,Entire apartment,5.0,5,26,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.98859,-102.1492,90,1,True,0.8,55.0,0.9
+39731671,302762155,False,Midland,Newly Renovated Midland Flat + Pool,1,Entire apartment,Entire apartment,3.89,9,25,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.98695,-102.14957,90,1,True,0.8,55.0,0.9
+30820396,41916063,True,Midland,Desirable 2 bedroom,1,Entire apartment,Entire apartment,,2,16,2.0,2,2.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.05105,-102.13201,30,3,True,0.9,165.0,1.0
+34707476,207888136,False,Midland,Quaint 2 bedroom house!,2,Entire house,Entire house,4.57,7,11,1.0,2,3.0,4,CANCEL_FLEXIBLE,False,32.02704,-102.08384,1125,1,True,1.0,109.0,1.0
+33879530,57282282,True,Midland,Wolfcamp Lodge: Business Traveler's Oasis,36,Entire townhouse,Entire townhouse,5.0,13,22,2.0,2,2.0,4,CANCEL_MODERATE,False,32.01205,-102.14813,1125,2,False,0.75,140.0,0.92
+33442611,251937942,False,Midland,"The Best of Midland, TX Living",1,Entire apartment,Entire apartment,,0,11,2.0,2,2.0,4,CANCEL_MODERATE,False,32.03301,-102.09231,1125,4,True,0.9,129.0,1.0
+14543916,50086306,True,Midland,Private Bedroom and Private Bath,2,Private room in house,Private room,4.87,52,6,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.02867,-102.12114,1125,1,False,0.85,60.0,0.9
+42670372,266063094,False,Midland,King Suite. Free Breakfast. Pool & Hot Tub. Great for Business Travelers!,47,Entire serviced apartment,Entire apartment,,0,16,1.0,0,1.0,2,CANCEL_MODERATE,False,31.9936,-102.16161,14,2,True,1.0,146.0,1.0
+42276439,174750939,True,Midland,Lara's Casita,60,Entire cottage,Entire cottage,,1,14,1.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.00039,-102.08861,1125,2,True,1.0,125.0,1.0
+34751832,252229194,False,Midland,Best Pet Friendly Home In Midland,2,Entire house,Entire house,4.67,9,23,1.0,3,3.0,6,CANCEL_MODERATE,False,31.98511,-102.12778,30,2,True,0.86,145.0,0.86
+30266356,207888136,False,Midland,Beautiful 1 bedroom apartment!4,1,Entire apartment,Entire apartment,4.33,6,8,1.0,1,2.0,1,CANCEL_FLEXIBLE,False,32.00785,-102.07972,1125,1,True,1.0,59.0,1.0
+42670698,266063094,False,Midland,Free Breakfast. Pool & Hot Tub. Near the new Chevron and Oxy campuses!,37,Entire condominium,Entire condominium,,0,17,1.0,1,2.0,4,CANCEL_MODERATE,False,31.99407,-102.16013,14,2,True,1.0,163.0,1.0
+39731133,302762155,False,Midland,Cozy Flat in the Heart of Midland,1,Entire apartment,Entire apartment,,2,25,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.98646,-102.14844,90,1,True,0.8,80.0,0.9
+35867673,41916063,True,Midland,Heart of shopping 1 bedroom,1,Entire apartment,Entire apartment,,0,10,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.03743,-102.12412,30,3,True,1.0,135.0,1.0
+42596223,332656772,False,Midland,Storey Weekly rental home,2,Entire house,Entire house,,1,16,2.0,3,3.0,5,CANCEL_FLEXIBLE,False,31.99704,-102.11706,1125,7,True,1.0,130.0,1.0
+30266296,207888136,False,Midland,Beautiful 2 bedroom apartment!2,1,Entire apartment,Entire apartment,4.5,10,9,1.0,2,3.0,5,CANCEL_FLEXIBLE,False,32.00887,-102.08035,1125,1,True,1.0,104.0,1.0
+43146534,75314243,False,Midland,Quaint House with a Charming Room,2,Private room in house,Private room,,0,11,1.0,1,1.0,1,CANCEL_FLEXIBLE,True,32.02051,-102.11035,365,1,False,0.51,23.0,0.79
+35902929,101770076,False,Midland,Master room with private entrance,2,Private room in house,Private room,5.0,3,5,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.99929,-102.10235,1125,1,True,1.0,100.0,0.79
+37290316,41916063,True,Midland,3 bedroom Haven,1,Entire apartment,Entire apartment,,1,21,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.05161,-102.13179,30,2,True,1.0,130.0,1.0
+36316542,153682556,True,Midland,Right At Home-Midland Park View,2,Entire house,Entire house,4.9,21,26,2.0,3,4.0,8,CANCEL_FLEXIBLE,False,32.00451,-102.11226,1125,1,False,1.0,295.0,1.0
+38601332,77533936,False,Midland,Best AirBnb in Midland!,32,Camper/RV,Camper/RV,4.5,4,8,1.0,1,1.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.92136,-101.91596,1125,1,True,0.88,65.0,0.93
+28912458,153682556,True,Midland,Right At Home-Lorenzoâ€™s Casita,2,Entire house,Entire house,4.82,39,30,2.0,3,3.0,6,CANCEL_FLEXIBLE,False,32.03344,-102.11689,1125,1,False,1.0,199.0,1.0
+23650340,153682556,True,Midland,Shangri-La in the Oil Patch,2,Private room in house,Private room,4.85,41,11,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.03263,-102.11901,1125,1,False,0.73,72.0,0.89
+41690449,153682556,True,Midland,Right At Home - Easy Breezy Hot Tub Delight,2,Entire house,Entire house,4.75,4,40,2.5,3,3.0,6,CANCEL_MODERATE,False,32.01147,-102.14792,1125,1,False,1.0,250.0,1.0
+42775578,279321942,False,Midland,Midland Bunkhouse RV,32,Camper/RV,Camper/RV,4.8,5,27,1.5,2,4.0,6,CANCEL_FLEXIBLE,False,32.03458,-101.92263,1125,1,False,0.75,50.0,0.8
+42670904,266063094,False,Midland,King Suite. Free Breakfast. Pool & Hot Tub. Great for Business Travelers!,37,Entire condominium,Entire condominium,,0,17,1.0,1,1.0,2,CANCEL_MODERATE,False,31.99539,-102.16174,14,2,True,1.0,160.0,1.0
+29103740,219345530,False,Midland,Nice and quiet,1,Private room in apartment,Private room,,0,3,1.0,0,1.0,1,CANCEL_FLEXIBLE,False,31.99855,-102.10964,1125,20,True,1.0,149.0,1.0
+26784629,153682556,True,Midland,Right At Home-bedroom 2,2,Private room in house,Private room,4.9,21,16,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.01872,-102.11478,1125,1,False,1.0,70.0,1.0
+29023478,218738482,False,Midland,1 spacious bedroom w/walk-in closet in Nice area,2,Private room in house,Private room,5.0,3,1,0.0,1,0.0,1,CANCEL_FLEXIBLE,False,32.01526,-102.13084,120,1,True,0.51,100.0,0.79
+43299131,41916063,True,Midland,3 bedroom Sunshine place,1,Entire apartment,Entire apartment,,0,11,2.0,3,3.0,6,CANCEL_FLEXIBLE,True,32.05162,-102.13212,30,3,True,1.0,135.0,1.0
+39273635,115064741,False,Midland,New RV's - Guest Services & Pre-Approved Dogs,32,Camper/RV,Camper/RV,5.0,5,12,1.0,1,1.0,2,CANCEL_MODERATE,False,31.96919,-101.99555,365,2,True,0.85,85.0,0.93
+33901436,41916063,True,Midland,North Midland 3 bedroom,1,Entire apartment,Entire apartment,,0,21,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.0678,-102.09364,30,3,True,1.0,180.0,1.0
+35121605,76040234,False,Midland,Legends Park Area,2,Private room in house,Private room,,0,11,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,31.98388,-102.1583,5,1,True,1.0,100.0,1.0
+26813274,28980408,True,Midland,Near stadium w/ amenities for business travelers!,2,Entire house,Entire house,4.8,10,16,2.0,4,4.0,12,CANCEL_MODERATE,False,32.01155,-102.13114,1125,1,False,1.0,245.0,0.9
+35565996,265007928,False,Midland,Corral In legends,2,Private room in house,Private room,,0,11,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,31.98371,-102.15665,5,1,True,1.0,125.0,1.0
+34533331,252229194,False,Midland,Midlands finest Pet Friendly Home,2,Entire house,Entire house,,1,38,1.0,3,3.0,4,CANCEL_MODERATE,False,31.98511,-102.12778,30,2,True,0.86,145.0,0.86
+42670639,266063094,False,Midland,Free Breakfast. Pool & Hot Tub. Close to the new Chevron and Oxy campuses!,37,Entire condominium,Entire condominium,,0,18,1.0,2,3.0,6,CANCEL_MODERATE,False,31.99326,-102.16031,14,2,True,1.0,224.0,1.0
+37627729,143346325,False,Midland,Bedroom 1 (shared house),2,Private room in house,Private room,,2,9,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.9833,-102.07336,1125,2,True,0.75,48.0,0.88
+29104247,202596170,False,Midland,Quiet comfort in Midland,2,Private room in house,Private room,5.0,3,5,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,32.03373,-102.15398,1125,1,True,1.0,100.0,1.0
+20171800,123415934,False,Midland,White Room,2,Private room in house,Private room,5.0,9,9,1.5,1,1.0,1,CANCEL_FLEXIBLE,False,32.02791,-102.12872,1125,1,True,1.0,110.0,1.0
+38479876,276102447,False,Midland,AFFORDABLE in Midland!,32,Camper/RV,Camper/RV,3.75,4,1,1.0,2,4.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.92146,-101.91667,1125,1,True,0.8,60.0,0.9
+37184242,143346325,False,Midland,Bedroom 2 (shared full bathroom with other guest),2,Private room in house,Private room,,1,10,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.98164,-102.07354,1125,2,True,0.74,48.0,0.88
+42670666,266063094,False,Midland,Free Breakfast. Pool & Hot Tub. Quick Drive to the new Chevron and Oxy campuses! Great for Business Travelers!,37,Entire condominium,Entire condominium,,0,18,2.0,2,3.0,6,CANCEL_MODERATE,False,31.9939,-102.16135,14,2,True,1.0,219.0,1.0
+39443641,302762155,False,Midland,Newly Renovated Midland Getaway,1,Entire apartment,Entire apartment,4.25,4,19,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,32.03451,-102.13488,90,1,True,0.8,55.0,0.9
+42092287,94803899,False,Midland,Cozy Relaxing Place #3,2,Private room in house,Private room,,0,1,0.0,1,3.0,1,CANCEL_FLEXIBLE,False,32.02336,-102.07688,1125,1,False,0.51,45.0,0.79
+39859870,41916063,True,Midland,Quiet 2 bedroom,1,Entire apartment,Entire apartment,,1,4,2.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.0512,-102.13154,10,2,True,1.0,120.0,1.0
+35875877,207888136,False,Midland,Nice 3 bedroom 2 car garage sleeps 6!!,2,Entire house,Entire house,3.33,3,16,2.0,3,5.0,6,CANCEL_FLEXIBLE,False,31.98528,-102.13941,1125,1,True,1.0,150.0,1.0
+31054940,231973865,True,Midland,"Executive Charm: 3 bedrooms, 2 baths, 2 car garage",2,Entire house,Entire house,4.95,40,18,2.0,3,3.0,6,CANCEL_MODERATE,False,31.99298,-102.13849,31,2,True,0.8,239.0,0.9
+40616219,41916063,True,Midland,North Midland 2 bedroom,1,Entire apartment,Entire apartment,,0,7,2.0,2,2.0,4,CANCEL_MODERATE,False,32.05798,-102.0794,30,3,True,1.0,145.0,1.0
+30927300,155660794,True,Midland,Charming cozy cottage in historic neighborhood,40,Entire guesthouse,Entire guesthouse,5.0,7,10,0.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.01232,-102.08978,7,1,False,1.0,190.0,0.9
+41339819,41916063,True,Midland,2 bedroom North Midland,1,Entire apartment,Entire apartment,,0,4,2.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.05254,-102.13178,30,3,True,1.0,120.0,1.0
+43187420,41916063,True,Midland,Ballpark 1 bedroom,1,Entire apartment,Entire apartment,,0,6,1.0,1,1.0,2,CANCEL_FLEXIBLE,True,31.99145,-102.16079,30,3,True,1.0,75.0,1.0
+40138596,41916063,True,Midland,North Midland 3 bedroom,1,Entire apartment,Entire apartment,,0,6,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.05837,-102.08096,30,3,True,1.0,180.0,1.0
+30266381,207888136,False,Midland,Beautiful 1 bedroom apartment!1,1,Entire apartment,Entire apartment,3.86,7,8,1.0,1,2.0,1,CANCEL_FLEXIBLE,False,32.00904,-102.08037,1125,1,True,1.0,69.0,1.0
+30266066,207888136,False,Midland,Beautiful 1 bedroom apartment7,1,Entire apartment,Entire apartment,4.25,8,8,1.0,1,2.0,1,CANCEL_FLEXIBLE,False,32.00741,-102.08205,1125,1,True,1.0,69.0,1.0
+39865028,306982208,False,Midland,~Prime Location+Professionally Cleaned/Disinfected,2,Entire house,Entire house,5.0,4,17,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.99407,-102.14607,21,3,False,0.82,99.0,0.9
+42670918,266063094,False,Midland,Free Breakfast. Pool & Hot Tub. King Suite. Near the new Chevron and Oxy campuses!,37,Entire condominium,Entire condominium,,0,17,1.0,1,1.0,2,CANCEL_MODERATE,False,31.99528,-102.16115,14,2,True,1.0,159.0,1.0
+42670649,266063094,False,Midland,Free Breakfast. Pool & Hot Tub. Great Location! Near the new Chevron and Oxy campuses,37,Entire condominium,Entire condominium,,0,18,2.0,2,3.0,6,CANCEL_MODERATE,False,31.99317,-102.15997,14,2,True,1.0,229.0,1.0
+33042346,207888136,False,Midland,Beautiful 3 bedroom house! Great corporate rental!,2,Entire house,Entire house,4.0,7,17,2.0,3,5.0,6,CANCEL_FLEXIBLE,False,32.02697,-102.12741,1125,1,True,1.0,169.0,1.0
+35647005,153682556,True,Midland,Right At Home-Moulin Rouge,2,Entire house,Entire house,4.89,19,41,2.0,3,3.0,6,CANCEL_FLEXIBLE,False,32.01758,-102.10647,1125,1,False,1.0,225.0,1.0
+43381713,115064741,False,Midland,"New High End RV, Fully Furnished, Peace and Quiet",32,Camper/RV,Camper/RV,,0,11,1.0,1,2.0,4,CANCEL_FLEXIBLE,True,31.97082,-101.99463,60,1,True,0.9,80.0,0.95
+32691518,153682556,True,Midland,Right At Home-French Chateau,2,Entire house,Entire house,4.9,58,40,2.5,4,4.0,8,CANCEL_FLEXIBLE,False,32.0287,-102.15999,1125,1,False,0.82,395.0,0.88
+38549524,207888136,False,Midland,Quaint 3 bedroom apartment!,1,Entire apartment,Entire apartment,5.0,3,12,2.0,3,5.0,6,CANCEL_FLEXIBLE,False,32.00734,-102.08056,1125,1,True,1.0,119.0,1.0
+40157281,279227964,False,Midland,Two private rooms with private bathroom,2,Private room in house,Private room,,2,12,1.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.02806,-102.13253,2,1,True,0.8,90.0,0.9
+43302461,342643084,False,Midland,Private 1BR Apt Home in Midland,47,Entire serviced apartment,Entire apartment,,0,19,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.02814,-102.15834,1125,30,False,1.0,51.0,1.0
+30823119,230561314,False,Midland,Luxury Room  +  Private Toilet/Bath Walk-in closet,1,Private room in apartment,Private room,4.63,8,12,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,32.00343,-102.13752,1125,3,False,0.9,75.0,0.95
+42670623,266063094,False,Midland,King Suite. Free Breakfast. Pool & Hot Tub. Near the new Chevron and Oxy campuses!,47,Entire serviced apartment,Entire apartment,,0,16,1.0,0,1.0,2,CANCEL_MODERATE,False,31.99341,-102.16003,14,2,True,1.0,152.0,1.0
+37362254,143346325,False,Midland,Private room with own restroom (room 3),2,Private room in house,Private room,,2,8,1.0,1,2.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.98232,-102.07336,1125,3,True,0.85,55.0,0.92
+42670412,266063094,False,Midland,King Suite. Free Breakfast. Pool & Hot Tub. Great for Business Travelers!,47,Entire serviced apartment,Entire apartment,,0,16,1.0,0,1.0,2,CANCEL_MODERATE,False,31.99455,-102.16204,14,2,True,1.0,146.0,1.0
+36738259,153682556,True,Midland,Right At Home- El Toro,2,Entire house,Entire house,4.43,7,17,2.0,4,6.0,8,CANCEL_FLEXIBLE,False,32.03122,-102.11346,1125,1,False,1.0,295.0,1.0
+30265913,227308240,True,Midland,West Texas Charm,2,Private room in house,Private room,5.0,15,11,1.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.0182,-102.16381,30,1,True,1.0,85.0,0.82
+41928263,29685105,False,Midland,1800' Well updated and maintained home,2,Private room in house,Private room,,2,12,1.0,0,1.0,1,CANCEL_FLEXIBLE,False,32.01531,-102.14974,1125,3,True,0.85,50.0,0.95
+43008619,41916063,True,Midland,1st floor Beauty,1,Entire apartment,Entire apartment,,1,4,1.0,1,1.0,2,CANCEL_FLEXIBLE,True,32.03736,-102.12238,1125,1,True,1.0,95.0,1.0
+29004103,149309678,True,Midland,Western Hills - Corporate/Family House,2,Entire house,Entire house,4.88,24,15,2.0,3,4.0,8,CANCEL_FLEXIBLE,False,31.9725,-102.14246,1125,1,True,0.8,143.0,0.9
+41371647,11656777,False,Midland,Riverwind A -  Your Other Home -  Luxury Exec 2BR,2,Entire house,Entire house,,1,52,2.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.02978,-102.1151,1125,1,True,0.8,125.0,0.85
+25778459,187523928,True,Midland,A place to call home Apt#1,1,Entire apartment,Entire apartment,4.96,80,16,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.02258,-102.12048,90,1,True,1.0,110.0,0.88
+36425577,273873125,False,Midland,Cozy studio back home in town,40,Entire guesthouse,Entire guesthouse,4.5,8,6,1.0,0,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.9842,-102.09874,1125,1,True,0.75,39.0,0.96
+36839389,254608133,True,Midland,Midland Art Gallery,36,Entire townhouse,Entire townhouse,4.71,17,12,1.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.02087,-102.08274,1125,1,False,1.0,90.0,1.0
+21700067,149309678,True,Midland,"Northgate 3bed, 2bath, 2 car garage home",2,Entire house,Entire house,4.82,56,14,2.0,3,3.0,6,CANCEL_MODERATE,False,32.02526,-102.15564,1125,1,True,0.8,143.0,0.9
+43215061,153682556,True,Midland,Right At Home-Midland Retreat,2,Entire house,Entire house,,1,34,2.0,4,4.0,8,CANCEL_FLEXIBLE,True,32.05422,-102.13477,1125,1,False,1.0,149.0,1.0
+42839821,341030691,False,Midland,Corporate Retreat - North Midland,2,Entire house,Entire house,,2,27,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.07964,-102.07881,5,2,True,1.0,95.0,1.0
+43325536,342643084,False,Midland,Comfort Abounds at 2BR/2BA in Midland,47,Entire serviced apartment,Entire apartment,,0,29,2.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.03604,-102.08016,1125,30,True,1.0,75.0,1.0
+43302467,342643084,False,Midland,Comfort Abounds at 3BR/2BA in Midland,47,Entire serviced apartment,Entire apartment,,0,19,2.0,3,3.0,7,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.02814,-102.15834,1125,30,True,1.0,92.0,1.0
+39461909,302762155,False,Midland,Spacious Midland Suite + Central Location,1,Entire apartment,Entire apartment,4.6,10,19,2.0,2,3.0,5,CANCEL_FLEXIBLE,False,32.03444,-102.13572,90,1,True,0.8,65.0,0.9
+43485490,295462199,False,Midland,Nice and comfortable room #3,2,Private room in house,Private room,,0,6,1.0,1,0.0,1,CANCEL_FLEXIBLE,True,31.9818,-102.07503,180,1,True,1.0,30.0,1.0
+20666571,28980408,True,Midland,The Hangar,2,Entire house,Entire house,4.6,53,13,2.0,3,4.0,6,CANCEL_MODERATE,False,31.99054,-102.09722,14,1,False,0.8,115.0,0.8
+38705412,258887301,True,Midland,Traveler's Edge,2,Entire house,Entire house,5.0,20,25,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.02311,-102.10983,1125,2,True,0.86,135.0,0.9
+24133246,22043709,False,Midland,Loft overlooking Tall City,35,Entire loft,Entire loft,4.89,163,6,1.0,1,1.0,2,CANCEL_MODERATE,False,32.00068,-102.08784,1125,1,True,0.9,100.0,1.0
+33691159,80824187,True,Midland,Cozy 3 Bedroom Home Close to Downtown + I20,2,Entire house,Entire house,4.94,69,11,1.0,3,3.0,5,CANCEL_FLEXIBLE,False,31.98778,-102.09306,5,1,False,1.0,99.0,1.0
+39750109,302762155,False,Midland,Cozy Midland Flat + Pool,1,Entire apartment,Entire apartment,4.5,4,28,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.98837,-102.14925,90,1,True,0.8,55.0,0.9
+43468405,11656777,False,Midland,Riverwind B - Your Other Home - Luxury Exec 2 BR,2,Entire house,Entire house,,0,30,2.0,2,2.0,4,CANCEL_FLEXIBLE,True,32.0297,-102.11363,1125,1,True,0.83,125.0,0.9
+39992116,41669328,True,Midland,"Cedar Cottage - Quaint, Quiet, Quality",40,Entire guesthouse,Entire guesthouse,4.75,8,14,1.0,1,2.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.01577,-102.07725,1125,1,False,0.75,52.0,0.92
+27235920,205129345,False,Midland,Home away from home,2,Private room in house,Private room,,0,4,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.00897,-102.13445,1125,60,True,0.6,40.0,0.8
+33248681,250352128,True,Midland,Comfort and cozy while away from home.,2,Private room in house,Private room,5.0,15,18,1.5,1,1.0,2,CANCEL_FLEXIBLE,False,31.98532,-102.13348,5,1,True,0.75,60.0,0.9
+35517620,143346325,False,Midland,"Two bedroom home, few miles from downtown Midland",2,Entire house,Entire house,5.0,3,15,1.0,2,2.0,4,CANCEL_MODERATE,False,31.98379,-102.07461,1125,3,True,0.78,85.0,0.91
+24917313,22043709,False,Midland,Downtown Cottage,2,Entire house,Entire house,4.95,55,9,1.0,1,1.0,3,CANCEL_MODERATE,False,31.99921,-102.08919,1125,1,True,1.0,150.0,1.0
+43365686,110379062,False,Midland,Beautiful 3Bed 2Bath home minutes from brewery,2,Entire house,Entire house,,0,39,2.0,3,3.0,4,CANCEL_FLEXIBLE,True,32.00498,-102.12304,1125,2,True,1.0,120.0,1.0
+35741024,224560380,True,Midland,Sunflower Cottage - 1 Queen bed with sleeper sofa,60,Entire cottage,Entire cottage,4.91,23,7,1.0,0,1.0,3,CANCEL_FLEXIBLE,False,31.99928,-102.09672,1125,1,True,0.85,75.0,0.85
+43465853,305560509,False,Midland,Time to relax ðŸ¤©,1,Entire apartment,Entire apartment,,0,7,1.0,1,1.0,4,CANCEL_FLEXIBLE,True,31.98279,-102.05648,3,1,True,0.6,60.0,0.8
+35910894,250586284,True,Midland,Cozy Chalet - Studio with Private Entrance,53,Entire guest suite,Entire guest suite,4.77,22,9,1.0,0,3.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.02296,-102.08777,1125,1,False,0.95,54.0,0.97
+33314403,124474337,False,Midland,Cozy Room in Midland Apartment,1,Private room in apartment,Private room,5.0,6,9,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.0205,-102.08866,30,2,True,0.8,60.0,0.9
+23006099,73796620,True,Midland,The Zen House,2,Entire house,Entire house,4.86,29,9,1.0,0,2.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.01345,-102.07886,1125,3,True,0.8,95.0,0.85
+29858603,224560380,True,Midland,Tall City Texan,1,Entire apartment,Entire apartment,4.9,91,10,1.0,0,1.0,2,CANCEL_FLEXIBLE,False,31.9984,-102.09642,1125,1,True,1.0,70.0,0.9
+42682984,187523928,True,Midland,A place to call home Apt#2,1,Entire apartment,Entire apartment,5.0,7,16,1.0,0,1.0,2,CANCEL_FLEXIBLE,False,32.02291,-102.12051,28,1,True,0.9,75.0,0.95
+38594259,153682556,True,Midland,Right At Home-Midland Manor,2,Entire house,Entire house,4.97,29,29,3.0,4,5.0,8,CANCEL_FLEXIBLE,False,32.03643,-102.16642,1125,1,False,0.9,149.0,0.9
+25668935,13604215,True,Midland,Rustic Lodge #2: Superhost- Best Value in Midland!,2,Private room in house,Private room,4.95,81,11,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.01767,-102.1743,30,2,False,0.82,39.0,0.9
+36764550,206713988,True,Midland,"The Robbins Nest B-New Beds, Grill & Outdoor Sink",36,Entire townhouse,Entire townhouse,4.86,28,48,1.0,2,2.0,5,CANCEL_FLEXIBLE,False,32.02437,-102.0855,21,2,False,0.92,80.0,0.96
+43037560,258887301,True,Midland,The Grand Voyage,2,Entire house,Entire house,5.0,3,34,2.0,3,,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.03971,-102.11555,1125,2,True,0.88,141.0,0.9
+23293151,108682577,True,Midland,Quiet and Comfortable,2,Private room in house,Private room,4.75,8,7,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,32.02894,-102.06912,1125,7,True,0.67762,37.0,0.82553
+21246888,20357728,False,Midland,TÃ¶rzs Agave - Blue Agave Room,2,Private room in house,Private room,4.33,7,3,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.98823,-102.09839,31,1,False,0.85,35.0,0.9
+33336159,174750939,True,Midland,Cozy Beautiful Modern Loft!,37,Entire condominium,Entire condominium,4.95,40,13,1.5,1,1.0,2,CANCEL_FLEXIBLE,False,32.0382,-102.13251,1125,2,True,0.83,125.0,0.83
+24463147,13604215,True,Midland,Rustic Lodge #1: Superhost- Best Value in Midland!,2,Private room in house,Private room,4.89,119,13,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.01781,-102.17376,30,2,False,0.86,38.0,0.93
+31927913,153682556,True,Midland,Right At Home- safari game room,2,Entire house,Entire house,4.88,24,39,2.0,3,5.0,8,CANCEL_FLEXIBLE,False,32.02762,-102.11855,1125,1,False,1.0,99.0,1.0
+42939367,53291951,False,Midland,Modern! Ready to entertain and relaxing Oasis!!,2,Entire house,Entire house,,2,56,2.0,3,5.0,10,CANCEL_FLEXIBLE,True,32.00082,-102.12762,30,1,True,0.8,99.0,0.9
+32738636,221562923,True,Midland,Quiet Escape,2,Private room in house,Private room,4.95,95,9,1.0,1,1.0,1,CANCEL_MODERATE,False,31.98678,-102.16876,5,1,False,1.0,40.0,1.0
+31653418,237329398,False,Midland,"Private room.Comfy,affordable,family friendly,cozy",1,Private room in apartment,Private room,4.54,24,17,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,32.00531,-102.13782,1125,1,True,0.85,33.0,0.89
+43325535,342643084,False,Midland,2BR/1BA luxury apt centrally located in Midland,47,Entire serviced apartment,Entire apartment,,0,29,1.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.03604,-102.08016,1125,30,True,1.0,66.0,1.0
+35905066,270019076,True,Midland,Tall City Oasis - relax with all the amenities!,36,Entire townhouse,Entire townhouse,5.0,18,13,2.5,2,2.0,4,CANCEL_FLEXIBLE,False,32.00371,-102.15024,1125,1,False,0.71,95.0,0.85
+39751044,302762155,False,Midland,Brand New Midland Flat + Pool,1,Entire apartment,Entire apartment,4.67,9,25,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.98821,-102.14982,90,1,True,0.8,55.0,0.9
+34289304,258887301,True,Midland,*2020 Airbnb of the Year* - Cedar Social,2,Entire house,Entire house,5.0,29,36,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.99412,-102.10254,1125,2,True,0.9,174.0,0.91
+28431270,214632468,True,Midland,"PRIVATE 600 sq.ft. wing w/ 2 bed, 1 bath, & living",2,Private room in house,Private room,4.87,99,18,1.0,2,3.0,4,CANCEL_FLEXIBLE,False,31.98966,-102.08886,26,1,True,0.75,62.0,0.9
+42597991,264055558,False,Midland,Jayco Jayflight 3 Midland Tx,1,Entire apartment,Entire apartment,,1,25,1.0,2,0.0,2,CANCEL_FLEXIBLE,False,31.92839,-102.09603,65,5,True,0.62,49.0,0.82
+20071596,16927190,True,Midland,Your Home Away From Home,2,Entire house,Entire house,4.95,63,13,2.0,3,4.0,7,CANCEL_MODERATE,False,32.01619,-102.16612,1125,2,True,0.7,159.0,0.8
+43325537,342643084,False,Midland,1BR with hotel like amenities in Midland,47,Entire serviced apartment,Entire apartment,,0,29,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.03604,-102.08016,1125,30,True,1.0,54.0,1.0
+13174647,28980408,True,Midland,Air Bnbâ€™s Most Wish listed in Midland!,2,Entire house,Entire house,4.93,153,17,1.0,2,2.0,4,CANCEL_MODERATE,False,32.00018,-102.10019,1125,1,False,0.8,145.0,0.85
+27430448,206713988,True,Midland,"The Robbins Nest A-Bright & Clean Home, New Grill",36,Entire townhouse,Entire townhouse,4.98,90,40,1.0,2,2.0,5,CANCEL_FLEXIBLE,False,32.02483,-102.0851,35,2,False,0.92,80.0,0.96
+39341074,30881189,False,Midland,Wadley Barron Guest House,40,Entire guesthouse,Entire guesthouse,4.79,24,11,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.00773,-102.08537,15,1,True,1.0,75.0,1.0
+20712472,134405721,True,Midland,My Home is Your Home II (Mi Casa es Su Casa II),2,Private room in house,Private room,4.77,62,14,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.02521,-102.07832,1125,1,True,0.85,40.0,0.9
+20947533,149309678,True,Midland,"North Midland: 3/2 w office, kitchen, POOL, patio",2,Entire house,Entire house,5.0,18,52,2.0,3,3.0,6,CANCEL_MODERATE,False,32.04048,-102.1173,1125,1,True,0.7,338.0,0.9
+28488645,41669328,True,Midland,Spacious+Comfy+Convenient - Relax after a Long Day,2,Entire house,Entire house,5.0,56,44,2.0,3,3.0,7,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.98436,-102.16442,29,1,False,0.8,166.0,0.92
+26784713,153682556,True,Midland,Right at Home - Midland Corporate,2,Entire house,Entire house,4.83,23,43,2.0,3,4.0,6,CANCEL_FLEXIBLE,False,32.01751,-102.11475,1125,1,False,1.0,99.0,1.0
+40711685,42942155,True,Midland,Fannin House,2,Entire house,Entire house,5.0,4,23,2.0,3,3.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.01881,-102.11062,60,3,True,0.75,169.0,0.9
+41480326,174750939,True,Midland,Cozy Quaint Comfy Cottage,2,Entire house,Entire house,4.75,4,14,2.0,3,3.0,6,CANCEL_FLEXIBLE,False,31.99985,-102.10499,1125,2,True,1.0,130.0,1.0
+36205037,37799859,False,Midland,"Cowboy Dan, West Texas Retreat",2,Entire house,Entire house,4.67,30,15,2.0,3,3.0,6,CANCEL_FLEXIBLE,False,31.93193,-102.08095,30,2,True,0.85,85.0,0.9
+33775798,254608133,True,Midland,Midland Art Studio Retreat,36,Entire townhouse,Entire townhouse,4.8,60,19,1.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.02163,-102.08454,1125,1,False,0.81,90.0,0.86
+42049604,94803899,False,Midland,Cozy Relaxing Place,2,Private room in house,Private room,5.0,3,7,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,32.02364,-102.07738,7,1,True,1.0,55.0,1.0
+37183639,268975793,True,Midland,"Rancher Guesthouse, Greenwood with pool & hot tub",40,Entire guesthouse,Entire guesthouse,5.0,27,17,1.0,2,2.0,7,CANCEL_MODERATE,False,32.02268,-101.9133,1125,5,False,0.8,90.0,0.9
+40065270,272845302,True,Midland,Small Cozy Mid-town home,2,Entire house,Entire house,4.81,27,19,2.0,3,3.0,7,CANCEL_FLEXIBLE,False,31.99099,-102.10418,60,2,True,0.85,95.0,0.9
+23812456,13604215,True,Midland,Rustic Lodge #3: Superhost- Best Value in Midland!,2,Private room in house,Private room,4.85,71,13,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.01632,-102.17248,30,2,False,0.86,38.0,0.93
+43141490,119714968,False,Midland,Industrial Style Guest House,40,Entire guesthouse,Entire guesthouse,5.0,3,19,1.0,0,1.0,2,CANCEL_FLEXIBLE,False,31.99575,-102.09334,1125,3,False,0.8,70.0,1.0
+35083129,264270583,False,Midland,Loop House,1,Private room in apartment,Private room,4.43,7,5,1.0,1,1.0,1,CANCEL_MODERATE,False,32.03876,-102.12253,1125,1,True,0.64285,50.0,0.84852
+43325540,342643084,False,Midland,1BR w/ spectacular location in Midland,47,Entire serviced apartment,Entire apartment,,0,29,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.03604,-102.08016,1125,30,True,1.0,58.0,1.0
+43302464,342643084,False,Midland,2BR/2BA with onsite gym in Midland,47,Entire serviced apartment,Entire apartment,,0,19,2.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.02814,-102.15834,1125,30,True,1.0,79.0,1.0
+30674446,90548425,False,Midland,"Excellent Safe area! Private, Charming garage apt.",47,Entire serviced apartment,Entire apartment,4.32,25,8,1.0,1,2.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,32.01076,-102.1121,1125,3,True,0.9,45.0,1.0
+43325534,342643084,False,Midland,Comfort Abounds at 1BR in Midland,47,Entire serviced apartment,Entire apartment,,0,29,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.03604,-102.08016,1125,30,True,1.0,52.0,1.0
+39750311,302762155,False,Midland,Relaxing Midland Suite + Pool,1,Entire apartment,Entire apartment,4.33,3,23,1.0,1,2.0,3,CANCEL_FLEXIBLE,False,31.98706,-102.1491,90,1,True,0.8,55.0,0.9
+34837782,156780693,False,Midland,Cozy Guest Suite - See discounted rates,2,Private room in house,Private room,4.76,37,11,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,32.0062,-102.14561,1125,1,True,0.9,32.0,0.95
+28360311,11656777,False,Midland,"Your Other Home - Peaceful, Gorgeous Luxury 3BR",2,Entire house,Entire house,5.0,30,37,2.5,3,3.0,6,CANCEL_FLEXIBLE,False,32.0189,-102.13537,30,1,True,0.8,168.0,0.85
+26774762,201316675,True,Midland,The Eagles Nest,37,Entire condominium,Entire condominium,4.84,104,9,1.5,2,2.0,4,CANCEL_FLEXIBLE,False,31.99459,-102.11112,336,1,True,0.55,85.0,0.65
+33394167,250352128,True,Midland,"Private bedroom, comfortable and cozy.",2,Private room in house,Private room,4.88,8,18,1.5,1,1.0,2,CANCEL_FLEXIBLE,False,31.98492,-102.133,5,1,True,0.8,60.0,0.9
+9465528,20357728,False,Midland,TÃ¶rzs Agave - The Century Agave Room,2,Private room in house,Private room,4.7,338,15,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.98836,-102.09839,31,1,True,0.85,35.0,0.9
+36882220,224560380,True,Midland,Orient XPress- Private 1 Bedroom with sleeper sofa,1,Entire apartment,Entire apartment,4.92,36,8,1.0,1,1.0,4,CANCEL_FLEXIBLE,False,31.99859,-102.0987,1125,1,True,1.0,75.0,1.0
+27930422,11656777,False,Midland,Your Other Home -  2BR Peaceful Beautiful Luxury,2,Entire house,Entire house,5.0,45,32,2.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.03166,-102.12494,30,1,True,0.8,169.0,0.85
+42597142,264055558,False,Midland,Freedom Spirit Midland 6,1,Entire apartment,Entire apartment,,1,7,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.93977,-102.03281,65,5,True,0.76,39.0,0.95
+34039527,231973865,True,Midland,"The ""Blessed Cottage""...",2,Entire house,Entire house,4.85,26,8,2.0,3,3.0,6,CANCEL_MODERATE,False,31.99251,-102.08562,31,2,False,0.75,85.0,0.85
+42712121,119714968,False,Midland,Cozy Upstairs Loft Apartment A,1,Entire apartment,Entire apartment,,0,7,1.0,2,2.0,4,CANCEL_FLEXIBLE,False,31.99011,-102.0666,1125,2,True,0.67,99.0,0.9
+35544475,250352128,True,Midland,Clean and cozy,2,Private room in house,Private room,5.0,17,23,1.5,1,1.0,2,CANCEL_FLEXIBLE,False,31.98508,-102.13461,5,1,True,0.84,60.0,0.84
+39462211,302762155,False,Midland,Spacious Flat in the Heart of Midland,1,Entire apartment,Entire apartment,3.75,12,14,2.0,2,3.0,5,CANCEL_FLEXIBLE,False,32.03429,-102.13427,90,1,True,0.8,65.0,0.9
+43325538,342643084,False,Midland,2BR/2BA with hotel like amenities in Midland,47,Entire serviced apartment,Entire apartment,,0,29,2.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.03604,-102.08016,1125,30,True,1.0,69.0,1.0
+43302460,342643084,False,Midland,Everything You Need | 2BR/2BA in Midland,47,Entire serviced apartment,Entire apartment,,0,19,2.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.02814,-102.15834,1125,30,True,1.0,72.0,1.0
+32962047,244181886,True,Midland,Cozy and clean,2,Private room in house,Private room,5.0,18,4,1.0,2,2.0,2,CANCEL_FLEXIBLE,False,32.01543,-102.16771,1125,1,True,0.75,95.0,0.9
+42181584,64077873,True,Midland,Desert Farm Studio,53,Entire guest suite,Entire guest suite,5.0,13,28,1.0,0,1.0,2,CANCEL_FLEXIBLE,False,31.97995,-102.13723,1125,1,True,0.8,65.0,0.85
+24987786,18752505,True,Midland,Central Midland Private Bedroom & Bathroom,36,Private room in townhouse,Private room,4.87,83,22,1.0,1,1.0,2,CANCEL_MODERATE,False,32.01781,-102.08754,31,2,True,0.85,70.0,0.92
+37752205,199609196,False,Midland,"* Cozy, private Guest suite w/Hot Tub-in Downtown!",40,Entire guesthouse,Entire guesthouse,4.75,4,9,1.0,1,1.0,4,CANCEL_MODERATE,False,32.00964,-102.0817,1125,2,True,0.65,100.0,0.82
+30266335,207888136,False,Midland,Beautiful 1 bedroom apartment!6,1,Entire apartment,Entire apartment,4.65,17,8,1.0,1,2.0,1,CANCEL_FLEXIBLE,False,32.00871,-102.08159,1125,1,True,1.0,59.0,1.0
+19208330,134405721,True,Midland,My Home is Your Home (Mi Casa es Su Casa),2,Private room in house,Private room,4.78,157,20,1.0,1,2.0,2,CANCEL_FLEXIBLE,False,32.02404,-102.07733,1125,1,True,0.85,40.0,0.9
+34232941,258456090,True,Midland,Grace Manor,36,Entire townhouse,Entire townhouse,5.0,30,19,2.5,3,3.0,6,CANCEL_FLEXIBLE,False,32.02857,-102.13082,1125,1,True,0.8,200.0,0.9
+21560778,156780693,False,Midland,Quiet Guest Suite - See Discount Rates,2,Private room in house,Private room,4.79,140,15,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,32.00513,-102.14628,1125,1,True,0.9,30.0,0.95
+42198220,181836605,False,Midland,The  Course,36,Entire townhouse,Entire townhouse,4.88,8,23,2.0,2,2.0,4,CANCEL_FLEXIBLE,False,32.0133,-102.14734,1125,1,True,1.0,69.0,1.0
+43325539,342643084,False,Midland,2BR/1BA resort style building in Midland,47,Entire serviced apartment,Entire apartment,,0,29,1.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,32.03604,-102.08016,1125,30,True,1.0,70.0,1.0
+40917916,77533936,False,Midland ,Brand new - super comfy bed!,32,Camper/RV,Camper/RV,5.0,6,7,1.0,1,2.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.91809,-101.91463,1125,5,True,0.9,55.0,0.95
+38190396,264055558,False,Midland ,Everest 5th wheel in Midland Tx 10,1,Entire apartment,Entire apartment,,2,20,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.94126,-102.03227,28,5,True,0.63,50.0,0.86
+22654579,91604181,False,Odessa,The Bowie House,2,Entire house,Entire house,4.7,53,15,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.86238,-102.38634,1125,2,False,0.85,139.0,0.95
+42670160,266063094,False,Odessa,Free Breakfast. Outdoor Pool. Gym. Quick Drive to the University of Texas Permian Basin!,47,Entire serviced apartment,Entire apartment,,0,13,1.0,0,1.0,2,CANCEL_MODERATE,False,31.85607,-102.32002,14,2,True,1.0,188.0,1.0
+29961786,210949544,True,Odessa,Private spare bedroom #2,2,Private room in house,Private room,4.93,30,9,1.0,1,0.0,2,CANCEL_FLEXIBLE,False,31.93211,-102.30163,1125,1,True,1.0,35.0,1.0
+38481118,207888136,False,Odessa,Charming 1 bedroom house!,2,Entire house,Entire house,3.75,4,14,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.84397,-102.38125,1125,1,True,1.0,89.0,1.0
+38982465,24951414,False,Odessa,Private Room with 2 Twin Beds and fast WiFi,2,Private room in house,Private room,,0,8,1.0,1,2.0,2,CANCEL_FLEXIBLE,False,31.92341,-102.36926,1125,7,True,1.0,45.0,1.0
+36133118,271779323,False,Odessa,RDS Ranch,2,Entire house,Entire house,4.7,10,8,4.5,5,6.0,12,CANCEL_MODERATE,False,31.85274,-102.41126,1125,3,True,1.0,300.0,1.0
+37358550,281474647,False,Odessa,Regal Executive Townhome,2,Private room in house,Private room,,0,1,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.88182,-102.33257,1125,1,True,0.55,75.0,0.8
+27657453,104146604,True,Odessa,Monclair,2,Private room in house,Private room,4.88,8,3,1.0,1,1.0,1,CANCEL_MODERATE,False,31.88613,-102.33627,90,5,True,1.0,29.0,1.0
+30470038,207888136,False,Odessa,Great 4 bedroom corporate rental!,2,Entire house,Entire house,3.71,8,12,3.0,4,5.0,8,CANCEL_FLEXIBLE,False,31.85227,-102.3866,1125,1,True,1.0,179.0,1.0
+38214998,41916063,True,Odessa,2 bedroom Villa,1,Entire apartment,Entire apartment,,1,5,2.0,2,2.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.90467,-102.33373,30,3,True,1.0,175.0,1.0
+41346438,153682556,True,Odessa,Right At Home-East Odessa Luxury Lodging,2,Entire house,Entire house,5.0,3,46,2.0,4,4.0,8,CANCEL_MODERATE,False,31.89091,-102.2989,1125,1,False,1.0,149.0,1.0
+42670151,266063094,False,Odessa,Free Breakfast. Outdoor Pool. Gym. Great for Business Travelers!,47,Entire serviced apartment,Entire apartment,,0,12,1.0,0,1.0,2,CANCEL_MODERATE,False,31.85833,-102.31841,14,2,True,1.0,188.0,1.0
+40592606,314531796,False,Odessa,"Rv x renta, accesible localizaciÃ³n. Near downtown",32,Camper/RV,Camper/RV,,2,11,1.0,1,4.0,2,CANCEL_FLEXIBLE,False,31.85483,-102.37744,15,1,False,0.52,50.0,0.8
+40710502,450856,True,Odessa,Luxurious Home  | Garage Parking  | Near Airport,36,Entire townhouse,Entire townhouse,,1,10,2.5,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.89288,-102.29782,1125,3,False,1.0,150.0,1.0
+23117052,17790010,True,Odessa,Long Term Guests Welcomed,2,Private room in house,Private room,4.54,16,10,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.95118,-102.40113,35,2,False,0.66,30.0,0.87
+13188291,73796620,True,Odessa,WINDSOR MANOR,2,Entire house,Entire house,4.96,52,20,2.0,2,4.0,6,CANCEL_FLEXIBLE,False,31.87946,-102.36223,1125,3,True,0.8,125.0,0.9
+35347628,85433196,True,Odessa,Convenient Bright 3 BR Near Shopping â€” 5 Min,2,Entire house,Entire house,4.77,13,22,2.0,3,4.0,8,CANCEL_FLEXIBLE,False,31.86773,-102.36501,183,3,True,0.79,145.0,0.8
+23146647,17790010,True,Odessa,Quiet & Private Room for Business Travelers,2,Private room in house,Private room,4.85,46,10,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.95118,-102.39899,35,2,True,0.69,38.0,0.89
+42301197,233003371,False,Odessa,Private Guesthouse,40,Entire guesthouse,Entire guesthouse,,2,17,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.85669,-102.39026,1125,1,True,0.85,65.0,0.9
+23508069,13387627,True,Odessa,HOSTESS WITH THE MOSTESS -  Garage Room Sanitized,2,Private room in house,Private room,4.92,38,26,1.0,1,1.0,2,CANCEL_MODERATE,False,31.94363,-102.40274,1125,1,True,0.99,42.0,0.99
+38049221,161444114,False,Odessa,"Wildcatter resting grounds, spacious living",2,Entire house,Entire house,4.93,28,98,2.0,4,8.0,10,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.87204,-102.33542,14,1,False,1.0,120.0,0.9
+38435778,24951414,False,Odessa,Relaxing Room with Private Bath,2,Private room in house,Private room,,1,7,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.9245,-102.37058,1125,5,True,1.0,50.0,1.0
+30043235,210949544,True,Odessa,Private spare room #3,2,Private room in house,Private room,4.94,18,16,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.9336,-102.30022,1125,1,True,1.0,35.0,1.0
+29805184,64838149,True,Odessa,Modern Townhouse for Corporate Guests and Families,36,Entire townhouse,Entire townhouse,4.96,25,26,2.0,3,3.0,6,CANCEL_MODERATE,False,31.9221,-102.26862,365,4,True,0.8,139.0,0.9
+25082142,189122586,True,Odessa,Quiet Retreat #1,2,Private room in house,Private room,4.75,60,11,1.0,1,1.0,2,CANCEL_MODERATE,False,31.88244,-102.33961,30,2,False,1.0,30.0,0.9
+40638325,450856,True,Odessa,Private Bathroom and Garage Parking,36,Private room in townhouse,Private room,,0,10,1.5,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.89478,-102.29871,1125,2,True,1.0,80.0,1.0
+43327226,342643084,False,Odessa,Upscale 1BR w/ hotel-like amenities in Odessa,47,Entire serviced apartment,Entire apartment,,0,34,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,31.91967,-102.28493,1125,30,True,1.0,58.0,1.0
+43327228,342643084,False,Odessa,Upscale 2BR w/ hotel-like amenities in Odessa,47,Entire serviced apartment,Entire apartment,,0,34,1.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,31.91967,-102.28493,1125,30,True,1.0,72.0,1.0
+34449174,184109707,True,Odessa,Gypsy House - ROOM 3,2,Private room in house,Private room,4.86,7,11,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.87709,-102.3493,1125,2,False,0.83,40.0,0.88
+35908336,270078383,False,Odessa,Private apartment #z,1,Private room in apartment,Private room,4.67,6,19,1.0,0,1.0,1,CANCEL_FLEXIBLE,False,31.90737,-102.42205,1125,1,True,1.0,55.0,1.0
+38746214,296303969,False,Odessa,One bed studio with pool access,53,Entire guest suite,Entire guest suite,4.86,7,11,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.88376,-102.34155,1125,1,False,0.95,44.0,0.95
+31537016,236354015,True,Odessa,Peaceful Odessa Home,2,Entire house,Entire house,4.94,34,10,1.0,2,3.0,4,CANCEL_MODERATE,False,31.86559,-102.35083,90,1,True,0.85,83.0,0.95
+34514110,184109707,True,Odessa,Gypsy House- Room 5,2,Private room in house,Private room,4.9,10,14,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,31.87898,-102.34944,1125,2,True,0.83,40.0,0.89
+31120694,232579918,True,Odessa,"Downtown Desert Cottage, CAL KING BED,",60,Entire cottage,Entire cottage,4.8,50,48,2.0,2,3.0,4,CANCEL_MODERATE,False,31.84799,-102.37149,60,2,True,0.75,75.0,0.85
+42487095,153682556,True,Odessa,Right At Home-0dessa Bungalow,2,Entire house,Entire house,4.67,3,39,1.0,2,2.0,4,CANCEL_FLEXIBLE,False,31.8631,-102.3695,1125,1,False,1.0,99.0,1.0
+39047833,299264388,True,Odessa,Townhouse Living,36,Entire townhouse,Entire townhouse,4.81,21,9,2.0,2,3.0,4,CANCEL_MODERATE,False,31.90108,-102.35534,14,2,True,0.8,126.0,0.95
+37520640,153682556,True,Odessa,Right At Home-Odessa Boxcar Bunkhouse,2,Entire house,Entire house,4.69,16,26,2.0,3,4.0,8,CANCEL_FLEXIBLE,False,31.8644,-102.36573,1125,1,True,1.0,99.0,1.0
+43327231,342643084,False,Odessa,Upscale 2BR w/ hotel-like amenities in Odessa,47,Entire serviced apartment,Entire apartment,,0,34,1.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,31.91967,-102.28493,1125,30,True,1.0,71.0,1.0
+32242780,450856,True,Odessa,Pristine Privacy and Peace Near Airport,36,Private room in townhouse,Private room,5.0,20,10,1.5,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.89473,-102.29733,1125,2,True,0.9,65.0,0.9
+43327230,342643084,False,Odessa,Upscale 1BR w/ hotel-like amenities in Odessa,47,Entire serviced apartment,Entire apartment,,0,34,1.0,1,1.0,3,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,31.91967,-102.28493,1125,30,True,1.0,57.0,1.0
+2614374,13387627,True,Odessa,HOSTESS WITH THE MOSTESS - Explorer Room,2,Private room in house,Private room,5.0,81,34,1.0,1,1.0,2,CANCEL_MODERATE,False,31.94189,-102.40237,1125,1,True,0.99,32.0,0.99
+38231865,24951414,False,Odessa,Bright room in Contemporary Clean Home,2,Private room in house,Private room,,2,7,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,31.92389,-102.37056,1125,7,True,1.0,40.0,1.0
+31548092,103687521,False,Odessa,Great Room in Odessa Texas,2,Private room in house,Private room,4.69,35,5,1.0,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.84562,-102.34731,1125,2,True,0.85,49.0,0.95
+38572769,294172888,False,Odessa,"Comfortable, Clean, and quiet room",1,Private room in apartment,Private room,,0,9,0.0,0,0.0,3,CANCEL_FLEXIBLE,False,31.85722,-102.37561,1125,1,True,0.9,69.0,1.0
+29901470,24669654,True,Odessa,Adorable Barndominium!,40,Entire guesthouse,Entire guesthouse,4.97,61,12,1.0,2,2.0,4,CANCEL_FLEXIBLE,False,31.8707,-102.34277,1125,1,True,0.85,150.0,0.9
+21202020,153145630,True,Odessa,19th hole .  Weekly and monthly rates.,2,Private room in house,Private room,4.79,107,47,1.0,1,1.0,2,CANCEL_MODERATE,False,31.87973,-102.36363,30,1,False,0.9,29.0,0.95
+36146040,41916063,True,Odessa,1 bedroom Faudree Casa,1,Entire apartment,Entire apartment,,0,4,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.91232,-102.2886,12,3,True,1.0,125.0,1.0
+31592258,13387627,True,Odessa,HOSTESS WITH THE MOSTESS -Lodge Room Sanitized,2,Private room in house,Private room,4.95,37,22,1.0,1,1.0,1,CANCEL_MODERATE,False,31.94379,-102.40112,1125,1,True,0.98,30.0,0.99
+31542515,145146842,True,Odessa,Midessa Hotel-W DirecTV/1GB-internet/Minifridge,2,Private room in house,Private room,4.92,13,7,1.5,1,1.0,1,CANCEL_MODERATE,False,31.93848,-102.30883,365,3,True,0.9,43.0,1.0
+28937249,218122420,False,Odessa,Pineview Villa,2,Entire house,Entire house,5.0,4,20,2.0,3,4.0,6,CANCEL_FLEXIBLE,False,31.88268,-102.30197,1125,2,True,0.8,130.0,0.85
+39481475,1423694,True,Odessa,Oasis between Odessa Midland,2,Entire house,Entire house,5.0,7,17,2.0,3,3.0,6,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.88165,-102.30346,1125,2,True,0.85,135.0,0.9
+24118390,57973720,True,Odessa,There's no place like home (away from home)...,2,Private room in house,Private room,4.93,15,6,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.95325,-102.40088,1125,1,True,0.6,80.0,0.8
+21983129,160508227,True,Odessa,Home Away from Home,2,Private room in house,Private room,5.0,14,36,1.0,1,1.0,1,CANCEL_MODERATE,False,31.90262,-102.36946,200,2,True,1.0,55.0,1.0
+41338463,41916063,True,Odessa,Midessa 1 bedroom,1,Entire apartment,Entire apartment,,1,5,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.91291,-102.2895,30,3,True,1.0,115.0,1.0
+42486876,153682556,True,Odessa,Right At Home- Odessa Corporate,2,Entire house,Entire house,,2,18,2.0,3,4.0,8,CANCEL_FLEXIBLE,False,31.86929,-102.35623,1125,1,True,1.0,99.0,1.0
+29944415,210949544,True,Odessa,private spare bedroom #1,2,Private room in house,Private room,4.96,28,15,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.93373,-102.3017,1125,1,True,1.0,35.0,1.0
+31591462,189122586,True,Odessa,Quiet Retreat #2,2,Private room in house,Private room,4.96,27,6,1.0,1,1.0,2,CANCEL_MODERATE,False,31.88253,-102.34043,14,2,False,1.0,30.0,0.85
+43479937,256691806,False,Odessa,Amazing unit with perfect location,1,Private room in apartment,Private room,,0,15,1.0,1,,2,CANCEL_FLEXIBLE,True,31.87379286199526,-102.36281755966372,1125,1,True,1.0,51.0,1.0
+22584725,24951414,False,Odessa,Amazing Master Bedroom with Lovely Private Bath,2,Private room in house,Private room,5.0,3,3,1.0,1,1.0,2,CANCEL_FLEXIBLE,False,31.92373,-102.36988,1125,7,True,0.8,50.0,1.0
+37128134,145146842,True,Odessa,Midessa Hotel -w DirecTV/1GB Inter./PVT minifride,2,Private room in house,Private room,4.88,16,6,1.5,1,1.0,1,CANCEL_MODERATE,False,31.93809,-102.30896,365,3,True,0.9,43.0,0.9
+31146425,184109707,True,Odessa,Gypsy House - Room 2,2,Private room in house,Private room,4.86,14,11,2.0,1,1.0,1,CANCEL_FLEXIBLE,False,31.87735,-102.34931,1125,1,True,0.83,40.0,0.89
+11582930,28313742,True,Odessa,Golder Guest House,40,Entire guesthouse,Entire guesthouse,4.94,433,11,1.0,1,2.0,4,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.85698,-102.38273,1125,1,False,0.75,85.0,0.85
+24184997,182292808,False,Odessa,3 bedroom fully furnished townhouse,36,Entire townhouse,Entire townhouse,5.0,4,7,2.0,3,3.0,6,CANCEL_FLEXIBLE,False,31.90161,-102.29514,1125,2,True,1.0,130.0,1.0
+27020343,162682410,True,Odessa,The Sanctuary 2,1,Private room in apartment,Private room,4.83,12,20,1.0,1,1.0,1,CANCEL_FLEXIBLE,False,31.88104,-102.32149,31,3,True,0.6,70.0,0.7
+25029560,53910253,True,Odessa,Modern Townhouse in Midland/Odessa off 191,36,Entire townhouse,Entire townhouse,5.0,14,25,2.0,3,3.0,6,CANCEL_MODERATE,False,31.92307,-102.27054,365,4,True,0.8,139.0,0.9
+34497572,13387627,True,Odessa,HOSTESS WITH THE MOSTESS- Cozy RV Retreat,32,Camper/RV,Camper/RV,4.71,7,25,1.0,2,1.0,2,CANCEL_MODERATE,False,31.93016,-102.4081,1125,7,True,0.99,46.0,0.99
+32284587,450856,True,Odessa,Polished Peaceful Place Near Airport,36,Private room in townhouse,Private room,4.85,13,17,1.5,1,1.0,2,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.89495,-102.2972,1125,2,True,1.0,70.0,1.0
+23238043,103687521,False,Odessa,Room in Odessa Texas,2,Private room in house,Private room,4.48,25,3,1.0,1,1.0,1,CANCEL_STRICT_14_WITH_GRACE_PERIOD,False,31.84569,-102.34716,1125,2,True,1.0,29.0,0.95
+21202019,153145630,True,Odessa,Dreamscape. Weekly and monthly rates,2,Private room in house,Private room,4.79,94,20,1.0,1,1.0,2,CANCEL_MODERATE,False,31.87973,-102.36363,30,1,False,0.85,31.0,0.95
+43327229,342643084,False,Odessa,Upscale 2BR w/ hotel-like amenities in Odessa,47,Entire serviced apartment,Entire apartment,,0,34,2.0,2,2.0,5,CANCEL_STRICT_14_WITH_GRACE_PERIOD,True,31.91967,-102.28493,1125,30,True,1.0,68.0,1.0
+3811061,13387627,True,Odessa,HOSTESS WITH THE MOSTESS -Navigator Room Sanitized,2,Private room in house,Private room,4.94,80,45,1.0,1,1.0,2,CANCEL_MODERATE,False,31.94339,-102.4019,1125,1,True,0.99,32.0,0.99
+42670396,266063094,False,Odessa,Free Breakfast. Outdoor Pool. Gym. Close to the University of Texas Permian Basin! Great for Business Travelers!,37,Entire condominium,Entire condominium,,0,12,1.0,1,1.0,2,CANCEL_MODERATE,False,31.85678,-102.31825,14,2,True,1.0,205.0,1.0
